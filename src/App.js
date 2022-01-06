@@ -1,9 +1,9 @@
-import Header from "./components/header/Header";
-import Footer from "./components/footer/Footer";
-import About from "./components/about/About";
-import Portfolio from "./components/project/Project";
-import Resume from "./components/resume/Resume";
-import Contact from "./components/contact/Contact";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+import About from "./components/About";
+import Portfolio from "./components/Project";
+import Resume from "./components/Resume";
+import Contact from "./components/Contact";
 
 
 const App = () => {
