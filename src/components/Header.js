@@ -1,11 +1,11 @@
 import React from "react";
 import NavBar from "./Navbar";
-const Header = () => {
+const Header = (props) => {
   return (
     <section className="header">
       <section className="name">Name Here</section>
       <section className="navbar">
-        <NavBar />
+        <NavBar {...props} />
       </section>
     </section>
   );
