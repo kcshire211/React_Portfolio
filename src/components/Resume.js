@@ -1,10 +1,10 @@
+import '../styles/Resume.css'
+
 const Resume = () => {
     return (
       <div>
-        <h1>Korey's Resume</h1>
-        <a href="React_Portfolio\public\CheshireResume.pdf">
-          Resume
-        </a>
+        <h1>Resume</h1>
+        <img src="React_Portfolio\public\CheshireResume.pdf" alt='korey resume' />
       </div>
     );
   };

@@ -2,7 +2,7 @@ const NavBar = (props) => {
     return (
       <div>
         <nav>
-          <ul>
+          <ul >
             <li onClick={() => props.setCurrentPage('About')}>
               <a href="#about">About Me</a>
             </li>
