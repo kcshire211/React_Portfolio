@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+/* .imgdiv {
+    margin-left: 50%;
+} */
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 90%;
+    max-width: 100%;
+    height: auto;
+    margin-top: 15;
+    margin-left: auto;
+    margin-right: auto;
+  }

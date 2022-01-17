@@ -1,0 +1,27 @@
+.bio {
+    margin-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-weight: 600;
+    border-style: solid;
+    border-color: black;
+    
+}
+
+.aboutMe {
+    color: teal;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.korey {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  margin-right: 25%;
+  margin-left: 45%;
+ 
+}
