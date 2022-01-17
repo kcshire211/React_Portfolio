@@ -1,4 +1,5 @@
 import '../styles/About.css'
+import korey2 from "../images/korey2.jpg"
 
 const About = () => {
     return (
@@ -12,7 +13,9 @@ const About = () => {
             I've always had a fondness for computer sciences having gotten my first taste in an intro class in highschool. I've decided now, at the age of 31, to pursue this interest as a full-time career. This profile contains a few samples of individual and group work I've 
             done while attending a full-stack development bootcamp. You will also find links to my GitHub, LinkedId, and resume included.
           </p>
-          <img src="./public/images/korey2.png" alt='korey' />
+          <div>
+          <img className='korey' src={korey2} alt='korey' />
+          </div>
         </section>
       </section>
     );

@@ -1,11 +1,12 @@
 const styles = {
   card: {
-    margin: 'auto',
-    background: '#e8eaf6',
-    color: 'teal',
+    marginLeft: 35,
+    marginRight: 35,
+    // background: '#e8eaf6',
+    // color: 'teal',
   },
   heading: {
-    background: '#3f51b5',
+    // background: '#3f51b5',
     minHeight: 50,
     lineHeight: 3.5,
     fontSize: '1.2rem',
