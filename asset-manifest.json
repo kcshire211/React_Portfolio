@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React_Portfolio/static/css/main.91c0bbfb.chunk.css",
+    "main.js": "/React_Portfolio/static/js/main.fc30f37b.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.fc30f37b.chunk.js.map",
+    "runtime-main.js": "/React_Portfolio/static/js/runtime-main.93f49618.js",
+    "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.93f49618.js.map",
+    "static/js/2.c93616a8.chunk.js": "/React_Portfolio/static/js/2.c93616a8.chunk.js",
+    "static/js/2.c93616a8.chunk.js.map": "/React_Portfolio/static/js/2.c93616a8.chunk.js.map",
+    "index.html": "/React_Portfolio/index.html",
+    "static/css/main.91c0bbfb.chunk.css.map": "/React_Portfolio/static/css/main.91c0bbfb.chunk.css.map",
+    "static/js/2.c93616a8.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.c93616a8.chunk.js.LICENSE.txt",
+    "static/media/CheshireResume.2e8f1648.pdf": "/React_Portfolio/static/media/CheshireResume.2e8f1648.pdf",
+    "static/media/Dayplanner.8f6d5b28.PNG": "/React_Portfolio/static/media/Dayplanner.8f6d5b28.PNG",
+    "static/media/javascriptquiz.310048bf.png": "/React_Portfolio/static/media/javascriptquiz.310048bf.png",
+    "static/media/korey2.be663f83.jpg": "/React_Portfolio/static/media/korey2.be663f83.jpg",
+    "static/media/teamprofilegenerator.2b841ba5.png": "/React_Portfolio/static/media/teamprofilegenerator.2b841ba5.png",
+    "static/media/techblog.cd51f59d.png": "/React_Portfolio/static/media/techblog.cd51f59d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93f49618.js",
+    "static/js/2.c93616a8.chunk.js",
+    "static/css/main.91c0bbfb.chunk.css",
+    "static/js/main.fc30f37b.chunk.js"
+  ]
+}
